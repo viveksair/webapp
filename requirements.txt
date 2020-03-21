@@ -1,3 +1,6 @@
 Flask==1.0
 Flask-RESTful==0.3.5
 pytest==3.0.7
+Pillow
+imageio
+boto3
