@@ -5,3 +5,4 @@ Pillow
 imageio
 boto3
 imageio-ffmpeg
+ffmpeg
